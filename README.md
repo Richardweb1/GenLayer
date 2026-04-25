@@ -52,7 +52,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
    - Go to https://studio.genlayer.com/](https://studio.genlayer.com/)
    - Connect your MetaMask wallet
 
-2. **Deploy the Contract**
+2. *Deploy the Contract**
    - Copy the contents of `cryptoquest.py`
    - Paste into GenLayer Studio
    - Click "Run and Debug" (▶ play button)
