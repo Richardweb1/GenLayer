@@ -1,6 +1,6 @@
 CryptoQuest - AI-Powered Adventure Game
 
-An interactive text-based adventure game built on **GenLayer Testnet **, where AI dynamically generates unique story responses to player actions. Every playthrough is different!
+An interactive text-based adventure game built on **GenLayer Testnet *, where AI dynamically generates unique story responses to player actions. Every playthrough is different!
 
 [![GenLayer](https://img.shields.io/badge/GenLayer-Testnet%20Bradbury-green)](https://www.genlayer.com/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
