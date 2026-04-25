@@ -40,7 +40,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 # Deployment Guide
 
-## Prerequisites
+# Prerequisites
 
 - MetaMask wallet installed
 - GenLayer Testnet added to MetaMask
