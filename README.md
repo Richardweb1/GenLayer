@@ -24,7 +24,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 1. **Connect** your MetaMask wallet to GenLayer Testnet
 2. **Start** a new game with your character name
-3. **Explore** by typing actions like "explore the forest" or "talk to the merchant"
+3. **Explore** by typing actions like "explore the forest" or *talk to the merchant*
 4. **Survive** - manage your health and gold to maximize your score
 5. **Compete** - see how you rank on the leaderboard
 
