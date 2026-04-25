@@ -46,7 +46,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 - GenLayer Testnet added to MetaMask
 - Testnet GEN tokens from the [faucet] (https://testnet-faucet.genlayer.foundation/)
 
-### Steps
+## Steps
 
 1. **Open GenLayer Studio*
    - Go to https://studio.genlayer.com/](https://studio.genlayer.com/)
