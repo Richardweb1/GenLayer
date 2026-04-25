@@ -15,7 +15,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 ✨ **Generate unique stories** - Every action gets a creative AI-generated response  
 🎲 **Dynamic gameplay** - No two playthroughs are the same  
 ⛓️ **On-chain state** - Your progress is stored on the blockchain  
-🤖 **LLM-powered** - Uses GenLayer's `gl.exec_prompt(` for AI responses  
+🤖 **LLM-powered** - Uses GenLayer's `gl.exec_prompt( for AI responses  
 🏆 **Leaderboard** - Compete with other players for the highest score
 
 ---
