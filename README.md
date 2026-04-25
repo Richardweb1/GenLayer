@@ -8,7 +8,7 @@ An interactive text-based adventure game built on *GenLayer Testnet *, where AI 
 
 ---
 
-##  What Makes This Special?
+#  What Makes This Special?
 
 Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses GenLayer AI capabilities to:
 
