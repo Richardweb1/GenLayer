@@ -38,7 +38,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 ---
 
-## Deployment Guide
+# Deployment Guide
 
 ## Prerequisites
 
