@@ -10,7 +10,7 @@ An interactive text-based adventure game built on *GenLayer Testnet *, where AI 
 
 ##  What Makes This Special?
 
-Unlike traditional blockchain games with hardcoded responses, **CryptoQuest* uses GenLayer's AI capabilities to:
+Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses GenLayer's AI capabilities to:
 
 ✨ **Generate unique stories** - Every action gets a creative AI-generated response  
 🎲 **Dynamic gameplay** - No two playthroughs are the same  
