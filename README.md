@@ -28,7 +28,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 4. **Survive** - manage your health and gold to maximize your score
 5. **Compete** - see how you rank on the leaderboard
 
-## Game Mechanics
+# Game Mechanics
 
 - **Health**: Ranges from 0-100. Reach 0 and it's game over!
 - **Gold**: Earn or lose gold through your adventures
