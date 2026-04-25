@@ -48,7 +48,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 # Steps
 
-1. **Open GenLayer Studio*
+1. *Open GenLayer Studio*
    - Go to https://studio.genlayer.com/](https://studio.genlayer.com/)
    - Connect your MetaMask wallet
 
