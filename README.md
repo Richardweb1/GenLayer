@@ -1,4 +1,4 @@
-CryptoQuest - AI-Powered Adventure Game
+CryptoQuest - AI Powered Adventure Game
 
 An interactive text-based adventure game built on *GenLayer Testnet *, where AI dynamically generates unique story responses to player actions. Every playthrough is different!
 
