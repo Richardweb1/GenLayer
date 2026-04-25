@@ -20,7 +20,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 ---
 
-##  How It Works
+#  How It Works
 
 1. **Connect** your MetaMask wallet to GenLayer Testnet
 2. **Start** a new game with your character name
