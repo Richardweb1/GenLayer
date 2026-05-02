@@ -81,7 +81,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 start_game("YourHeroName")
 ```
 
-### Taking Actions
+## Taking Actions
 
 Type any action you want to perform:
 - "explore the dark forest"
