@@ -200,7 +200,7 @@ The AI prompt is in the `take_action()` function. Customize it to:
 
 ---
 
-##  Contributing
+#  Contributing
 
 Contributions are welcome! Feel free to:
 - Submit bug reports
