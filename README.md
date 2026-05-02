@@ -181,7 +181,7 @@ class CryptoQuest:
    genlayer deploy cryptoquest.py
    ```
 
-### Modify the Game
+## Modify the Game
 
 The AI prompt is in the `take_action()` function. Customize it to:
 - Change the game theme (sci-fi, horror, comedy)
