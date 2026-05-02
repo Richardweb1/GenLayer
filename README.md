@@ -74,7 +74,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 #  How to Play
 
-## Starting a Game
+# Starting a Game
 
 ```javascript
 // Call the start_game function with your character name
