@@ -72,7 +72,7 @@ Unlike traditional blockchain games with hardcoded responses, *CryptoQuest* uses
 
 ---
 
-##  How to Play
+#  How to Play
 
 ## Starting a Game
 
