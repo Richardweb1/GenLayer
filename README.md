@@ -108,7 +108,7 @@ AI: "You carefully search the area and discover a hidden sword!
 
 ##  Contract Functions
 
-### Write Functions
+## Write Functions
 
 - `start_game(player_name: str)` - Begin a new adventure
 - `take_action(action: str)` - Perform an action (AI-powered)
